@@ -15,6 +15,8 @@ Dataset sourced from [Kaggle: Netflix Movies and TV Shows](https://www.kaggle.co
   - Ratings breakdown
   - Content by country
 
+![Netflix Dashboard Preview](images/dashboard_preview.gif)
+
 ## Skills Used
 - **Tableau**: Data visualization and dashboard development.
 - **Analysis**: Descriptive statistics and exploratory data analysis.
