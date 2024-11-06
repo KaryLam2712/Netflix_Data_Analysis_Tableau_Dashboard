@@ -4,7 +4,7 @@
 This interactive Tableau dashboard analyzes Netflix’s content library, allowing users to search by title to view details such as description, release year, rating, date added, duration, and genre. The dashboard also provides insights into content distribution trends, popular genres, and viewing patterns across countries and years.
 
 ## Data Source
-Dataset sourced from [Kaggle: Netflix Movies and TV Shows](https://www.kaggle.com/datasets/rahulvyasm/netflix-movies-and-tv-shows)), containing details on Netflix’s TV shows and movies, including genre, release year, country, and duration.
+Dataset sourced from [Kaggle: Netflix Movies and TV Shows](https://www.kaggle.com/datasets/rahulvyasm/netflix-movies-and-tv-shows), containing details on Netflix’s TV shows and movies, including genre, release year, country, and duration.
 
 ## Key Insights
 - **Content Search**: Find specific titles with details on release, rating, and genre.
