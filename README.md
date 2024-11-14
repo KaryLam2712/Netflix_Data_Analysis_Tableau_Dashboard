@@ -24,3 +24,4 @@ Dataset sourced from [Kaggle: Netflix Movies and TV Shows](https://www.kaggle.co
 
 ## Instructions
 - Download and open the `.twbx` file in Tableau Desktop.
+- You can also explore the dashboards on Tableau Public: https://public.tableau.com/app/profile/kary.lam/viz/netflix_dashboard_17308830584840/Netflix
