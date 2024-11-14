@@ -2,6 +2,8 @@
 
 ## Overview
 This interactive Tableau dashboard analyzes Netflix’s content library, allowing users to search by title to view details such as description, release year, rating, date added, duration, and genre. The dashboard also provides insights into content distribution trends, popular genres, and viewing patterns across countries and years.
+- **Project Link**: [Tableau Public Link](https://public.tableau.com/app/profile/kary.lam/viz/netflix_dashboard_17308830584840/Netflix)
+
 
 ## Preview
 ![Netflix Dashboard Preview](Dashboard_Display.gif)
